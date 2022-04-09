@@ -1,0 +1,40 @@
+/* Top Labels */
+.status-label {
+    font-size: 20pt;
+    text-align: center;
+    display: block;
+    margin-bottom: 20pt;
+}
+
+.progress-label {
+    font-size: 50pt;
+    text-align: center;
+    display: block;
+}
+
+/* Progress Bar */
+.progress-bar-wrapper {
+    display: inline;
+}
+
+.progress-bar-label {
+    float: right;
+}
+
+.progress-bar {
+    height: 20pt;
+    margin-bottom: 20pt;
+}
+
+/* Project */
+.project-label {
+    background-color: #ccc;
+    color: black;
+    padding: 5pt;
+    border-radius: 25px;
+    text-align: center;
+    display: block;
+    font-size: 12   pt;
+    width: fit-content;
+    margin: auto;
+}
